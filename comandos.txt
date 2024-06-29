@@ -1,0 +1,50 @@
+cd thecmdchallenge/
+
+pwd 
+
+ls -la
+
+ls -laR
+
+clear
+cd $(find . -type d | sort | tail -n 1)
+cat trophy.txt
+
+cd thecmdchallenge
+cd funcode
+ls *.js
+
+cd the-most-funny
+mkdir not-that-funny
+
+cd thecmdchallenge 
+cd boringfolder
+cd even-more-boring
+cd i-cant-believe-how-boring/
+cd the-ultimate-boring-inception/
+cp the-mostboring-text.txt lol.txt
+
+cd funcode
+mv kids.jpg images/hello/
+
+cd /workspaces/exercise-terminal-challenge/thecmdchallenge
+rm -rf samll-name
+
+cd funcode
+cd the-most-funny/
+cd lol
+cat the-ultimate-joke.txt
+
+cd ..
+cd ..
+rm -r boringfolder
+
+cd kamehameha/
+vi dragon-ball-jokes.md
+
+i
+dd
+:wq
+(enter)
+
+
